@@ -59,6 +59,18 @@
     <None Update="SixDegreesOfKevinBacon\TestFiles\The Biggest.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="WordleColorizer\TestFiles\Koala.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="WordleColorizer\TestFiles\Nanny.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="WordleColorizer\TestFiles\Polka.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="WordleColorizer\TestFiles\Water.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
